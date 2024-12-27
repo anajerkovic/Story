@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the best of times. It was the worst of timesto
+=======
+It was the best of aliens. It was the worst of times
+>>>>>>> alien-plot
